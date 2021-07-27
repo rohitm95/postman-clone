@@ -8,7 +8,7 @@
     "init": "snowpack init"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rohit Mamidwar",
   "license": "ISC",
   "dependencies": {
     "@codemirror/basic-setup": "^0.18.2",
